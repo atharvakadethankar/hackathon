@@ -13,4 +13,4 @@ Problem statement :
 
 Design detection, classification and tracking DL framework for Pedestrian, Cyclist, Motorcyclist, Standard Vehicles, Non-Standard Vehicles etc.
 
-Code file: vehicle-detection; dependant folder in the analysis part 'texttestdata'
+Code file: vehicle-detection
